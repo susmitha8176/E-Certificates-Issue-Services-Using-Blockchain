@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="SriCertiFicate"
+  id="myeclipse.1619621880830"
+  context-root="/SriCertiFicate"
+  j2ee-spec="5.0"
+  archive="SriCertiFicate.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
